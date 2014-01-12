@@ -1,0 +1,69 @@
+# Logo requirements
+## Summary
+I want some graphical support in creation of a new Riichi Mahjong desktop gaming club called "Tenpai". **Tenpai** means "Ready" state in Riichi where player lacks only a single tile to win, and waits for it. 
+
+To describe how it should "feel": the impression must be fascinating and deep, as much as the game itself; the logo should raise respect and admire in experienced players.
+
+## Technical
+### Size
+
+Around 5cm × 5cm. Great deal of reuse is anticipated (website logo, business cards, avatar in social networks, etc), so it must be resilient to scaling and light cropping.
+
+### Format
+
+Either SVG vector or rasterized PNG in not less than 300 DPI.
+
+## Content
+
+The leading content theme must be [Mahjong][] 「麻雀」 — the ancient tile game of 4 players originated in China.
+
+In particular (and this requires emphasis) — we play a Japanese flavor called Riichi  「リイチ」 (or sometimes Riichi-Dora) with significantly different rules and distinctive tile graphics (see below more on [tiles](#tiles)).
+
+An effort must be made to disambiguate a popular confusion about the [Mahjong solitaire][] being "that Mahjong game". The logo should contain visual clues or hints that the game in question is complex and skill-demanding, and played by 4 players.
+
+The logo is expected to use elements of traditional eastern (preferably Japanese) design: kanji ideographs, symbolic dragons, hand fans, Yin and Yang, Five Elements 「五行」 (Earth, Metal, Water, Wood, Fire), Wind/Style 風, etc.
+
+Any writing should use a stylized eastern font. No English text is allowed; locals speak Ukrainian and Russian. The name of the club spelled in Cyrillic is «Темпай» or «ТЕМПАЙ» and may be used on the logo in one of those forms.
+
+[Mahjong]: http://en.wikipedia.org/wiki/Mahjong
+
+[Mahjong solitaire]: http://en.wikipedia.org/wiki/Mahjong_solitaire
+
+## Tiles
+For reference, here are traditional Chinese tiles:
+
+![Chinese tiles](http://i.imgur.com/2p2mA1n.jpg)
+
+![Full Chinese tile set](http://i.imgur.com/7m2e2MZ.jpg)
+
+Compare with typical Japanese tiles:
+
+![Riichi tiles](http://upload.wikimedia.org/wikipedia/commons/e/e0/Japanese_Mahjong_Tiles_1.jpg)
+
+![Riichi tile set photo](http://i.imgur.com/8MCS5Ei.png)
+
+Note the two most important differences:
+
+ * white dragon is completely blank in Japanese sets, while Chinese ones always have frame;
+
+ * there are Red Fives in Riichi sets.
+
+Mahjong tiles by themselves present [deep cultural context][mahjong history] and I'm sure they'll serve as a powerful design vehicle. If you decide to employ them in the design though, be sure to use (and perhaps emphasize) the Japanese style rather than Chinese.
+
+[mahjong history]: http://en.wikipedia.org/wiki/Mahjong#History
+
+## Betting sticks
+
+![1000 point Mahjong stick](http://i.imgur.com/4a9plHN.gif)
+
+![Photo of wooden riichi sticks](http://i.imgur.com/WTviLxQ.jpg)
+
+This is one of the scoring sticks which bears a special significance as a Riichi betting stick. The name of the Mahjong flavor our club is playing, Riichi, owes to the unique game action, whereby a player declares *tenpai* and places the betting stick (worth 1000 points) on the table. He then fixes his hand, disallowed to change any tiles in this round, and waits for winning while others defend and try to not give him his waiting tile. In case of winning, the player gets additional score ("yaku") for having declared riichi, but in case of other player winning the round, the riichi bet goes to him.
+
+In fact, the possibility to declare riichi (using the betting stick) is a strong tactical ploy contributing to the game so much that we see Riichi Mahjong as a separate game. And it's inevitably connected both to the *tenpai* state, and to the betting stick. So it is a good idea to use the betting stick as a visual trope in the logo.
+
+## Suggested kanji
+
+ * 聴牌 — "tenpai", the word for the club's name. Can also spelled in Katakana as テンパイ！ (exclamation would fit neatly as a quote of a player making a "tenpai!" claim in-game).
+ * 役 — "yaku", 1. scoring combinations, vital to the game; 2. war, battle.
+ * 麻雀 — "maadjan", the word for Mahjong.
